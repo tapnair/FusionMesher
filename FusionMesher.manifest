@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"be72c6d5-ac18-480a-bb0c-1383b62110d6",
+	"author":	"Patrick Rainsberry",
+	"description":	{
+		"":	"Mesh Utilities for FUsion 360\t\t\t"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
