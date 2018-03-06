@@ -14,6 +14,8 @@ After downloading the zip file follow the [installation instructions here](https
 
 Select Mesher/Mesh to Brep Interference menu in the Solid Modeling Environment
 
+![Menu](./ReadMe/menu.png)
+
 Pick a mesh body and the solid bodies to check
 
 ![UI](./ReadMe/UI.png)
